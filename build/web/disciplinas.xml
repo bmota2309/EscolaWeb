@@ -1,0 +1,10 @@
+<list>
+  <disciplina>
+    <nome>Portugues</nome>
+    <cargaHoraria>120</cargaHoraria>
+  </disciplina>
+  <disciplina>
+    <nome>Matematrica</nome>
+    <cargaHoraria>190</cargaHoraria>
+  </disciplina>
+</list>
